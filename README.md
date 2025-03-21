@@ -1,8 +1,3 @@
-# System-design_data-workflow
-Here we have discussed some of the key design of data work flows End to end Data pipeline. 
+# What is the Need of NeuroSymbolic AI - Intersecting Roboics ,Vision & Language ?? 
 
-## Scalability and Avalability 
-
-## Traffic and Choosisng the Database 
-
-## How you are showing to  the frontend? 
+The field of artificial intelligence is witnessing a growing convergence between two historically distinct yet complementary paradigms: neural networks, which excel at extracting patterns from vast amounts of data, and symbolic AI, which provides powerful tools for reasoning with structured knowledge . This integration, known as neuro-symbolic AI, aims to overcome the inherent limitations of each approach when used in isolation, promising to unlock new levels of understanding, capability, and adaptability in AI systems . The current era, often referred to as the "third AI summer," is characterized by significant scientific advancements and increasing commercial interest in this fusion of symbolic and sub-symbolic AI . This trend suggests a collective belief that combining the strengths of these two fields is a crucial step towards achieving more robust and general forms of artificial intelligence .
